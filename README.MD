@@ -4,7 +4,7 @@
 1. Node version 14+
 
 ## How to setup framework
-1. Clone repository - ```YOURCODEHERE```
+1. Clone repository - ```git clone https://github.com/Khromchenko/delekhomes-cypress.git```
 2. Install all dependencies - ```npm i```
 
 ## How to run tests
